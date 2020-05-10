@@ -14,7 +14,7 @@ Get the highest return on your investment vs. other participants
 3. Competition begins Monday and winners are determined on Friday. The participant with the highest “return” is the winner of the week. Return = profit earned on the $5000 investment. For example, if you end with $5021 on your portfolio at the end of the week, $21 is your return.
 
 **A few things to note:** 
-* Participants must send their submissions before 9 AM EST Monday (i.e. before the markets open for the week of competition) to participate in a given week
+* Participants must send their submissions before 9 AM EST Monday (i.e. before the markets open) to participate in a given week
 
 * At least 95% of the portfolio must be stocks i.e. only 5% or less can be cash
 
